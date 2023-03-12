@@ -27,7 +27,7 @@ module.exports = {
       "error",
       {
         "semi": true,
-        "bracketSpacing": false,
+        "bracketSpacing": true,
         "trailingComma": "es5",
         "printWidth": 120,
         "endOfLine": "auto"
